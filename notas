@@ -1,0 +1,11 @@
+nvm use 14.15.0
+
+npm init (enter)
+
+create index.js
+
+install express,cheerio, axios
+
+nmp install nodemon --save-dev
+
+npm run start
